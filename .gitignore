@@ -1,0 +1,5 @@
+Dataset_BUSI_with_GT/
+*.zip
+*.png
+*.jpg
+__pycache__/
