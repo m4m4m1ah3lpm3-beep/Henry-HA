@@ -1,5 +1,11 @@
-Dataset_BUSI_with_GT/
+raw/
+data_TN3K/images/
+data_TN3K/masks/
+data_TN3K/labels/
+data_BUSI/images/
+data_BUSI/masks/
+data_BUSI/labels/
+*_split/
 *.zip
-*.png
-*.jpg
-__pycache__/
+*.pt
+runs/
